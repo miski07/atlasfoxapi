@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\jacob\source\repos\AtlasFoxAPI\AtlasFoxAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-12-11T06:54:32.5724534Z;True|2023-12-11T14:52:43.0326064+08:00;True|2023-12-11T14:51:30.7905623+08:00;True|2023-12-11T11:01:35.8961780+08:00;True|2023-12-11T10:59:01.6481119+08:00;True|2023-12-06T10:26:09.5768591+08:00;True|2023-12-06T10:20:42.9255854+08:00;True|2023-12-06T10:19:57.3055231+08:00;True|2023-12-06T10:18:10.2057548+08:00;True|2023-12-06T10:01:45.2013150+08:00;True|2023-12-06T09:57:30.5671210+08:00;True|2023-12-05T15:01:28.9988049+08:00;True|2023-12-05T14:56:45.9008076+08:00;True|2023-12-05T14:28:41.0626586+08:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

@@ -29,7 +29,6 @@ namespace AtlasFoxAPI.Controllers
             }
             return Ok(formDetail);
         }
-
         [HttpGet]
         public IActionResult GetFormDetails()
         {

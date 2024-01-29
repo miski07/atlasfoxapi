@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "chzZkrxwP1JqvRNIg9C76wzE9d7oX1rrebRrDaoFsG8x4HN7Hfz3b+5Uiq6700JuxWWp15JZ2uNXmklKsaO2Kw==",
+  "dgSpecHash": "CGdkWnEDflp8MxjRYZsQV1LMtvOgSu7u9LaZDLD8I7FjYnQVgUXd62WvV/eVpWJyEH/ARNNLp2lxAIl+N/uyjQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\jacob\\source\\repos\\AtlasFoxAPI\\AtlasFoxAPI\\AtlasFoxAPI.csproj",
   "expectedPackageFiles": [
@@ -71,5 +71,16 @@
     "C:\\Users\\jacob\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\jacob\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Data.SqlClient' 5.1.2 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "libraryId": "Microsoft.Data.SqlClient",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

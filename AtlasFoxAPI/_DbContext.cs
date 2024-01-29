@@ -12,6 +12,8 @@ namespace AtlasFoxAPI
 
         public DbSet<FormDetail> FormDetail { get; set; }   
 
-        public DbSet<FormPPK> FormPPK { get; set; }
+        //public DbSet<FormPPK> FormPPK { get; set; }
+
+        public DbSet<FormInfo> FormInfo { get; set; }
     }
 }

@@ -3,41 +3,25 @@ using System.ComponentModel.DataAnnotations;
 
 namespace AtlasFoxAPI.DTO
 {
-    public class FormPPKDto
+    public class FormInfoDto
     {
         [Key]
-        [Column("form_id")]
-        public String form_id { get; set; }
-
-        [Column("nama_kebutuhan")]
+        public String form_id { get; set; } // Primary key
+        public int form_id_num { get; set; }
+        public String form_id_type { get; set; }
+        public String form_id_dept { get; set; }
+        public String form_id_comp { get; set; }
+        public DateTime? form_id_month { get; set; }
+        public DateTime? form_id_year { get; set; }
         public String? nama_kebutuhan { get; set; }
-
-        [Column("jenis_kebutuhan")]
         public int? jenis_kebutuhan { get; set; }
-
-        [Column("detail_jenis_kebutuhan")]
         public String? detail_jenis_kebutuhan { get; set; }
-
-        [Column("tanggal_permintaan")]
         public DateTime? tanggal_permintaan { get; set; }
-
-        [Column("tanggal_pembelian")]
         public DateTime? tanggal_pembelian { get; set; }
-
-        [Column("user_id")]
-        public String? user_id { get; set; }
-
-        [Column("nama_karyawan")]
+        public String user_id { get; set; }
         public String? nama_karyawan { get; set; }
-
-        [Column("departement_karyawan")]
         public String? departement_karyawan { get; set; }
-
-        [Column("jabatan_karyawan")]
         public String? jabatan_karyawan { get; set; }
-
-        [Column("nik_manager")]
-        public String? nik_manager { get; set; }
+        public String nik_manager { get; set; }
     }
-
 }

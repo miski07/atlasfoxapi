@@ -85,3 +85,4 @@ C:\Users\jacob\source\repos\AtlasFoxAPI\AtlasFoxAPI\obj\Release\net6.0\refint\At
 C:\Users\jacob\source\repos\AtlasFoxAPI\AtlasFoxAPI\obj\Release\net6.0\AtlasFoxAPI.pdb
 C:\Users\jacob\source\repos\AtlasFoxAPI\AtlasFoxAPI\obj\Release\net6.0\AtlasFoxAPI.genruntimeconfig.cache
 C:\Users\jacob\source\repos\AtlasFoxAPI\AtlasFoxAPI\obj\Release\net6.0\ref\AtlasFoxAPI.dll
+C:\Users\jacob\source\repos\AtlasFoxAPI\AtlasFoxAPI\obj\Release\net6.0\AtlasFoxAPI.sourcelink.json
